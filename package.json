@@ -4,7 +4,7 @@
   "description": "A microservices case study with cote",
   "repository": {
     "type": "git",
-    "url": "git@github.com:dashersw/cote-workshop.git"
+    "url": "git@github.com:jamg44/cote-workshop.git"
   },
   "author": "Armagan Amcalar <armagan@amcalar.com>",
   "license": "MIT",

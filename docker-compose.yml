@@ -2,7 +2,7 @@ version: '2'
 services:
   base:
     build: .
-    image: dashersw/cote-workshop
+    image: jamg44/cote-workshop
     restart: on-failure
     environment:
       - PG=true

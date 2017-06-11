@@ -1,6 +1,6 @@
 # Microservices case study with cote.js
 
-This project aims to show a microservices architecture built with [cote.js](https://github.com/dashersw/cote), an auto-discovery mesh network framework for building fault-tolerant and scalable applications.
+This project aims to show a microservices architecture built with [cote.js](https://github.com/jamg44/cote), an auto-discovery mesh network framework for building fault-tolerant and scalable applications.
 
 It's an example e-commerce application with a complete feature set from admin interface to end user interface, and 4 different microservices for dealing with payments, products, purchases and user management.
 
@@ -13,7 +13,7 @@ The client interface is implemented entirely in cote; the server only serves a s
 Run the following commands:
 
 ```
-git clone git@github.com:dashersw/cote-workshop.git
+git clone git@github.com:jamg44/cote-workshop.git
 cd cote-workshop
 npm install
 node init-db.js

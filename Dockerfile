@@ -1,4 +1,4 @@
-FROM node:7
+FROM node:8.1-alpine
 
 WORKDIR /src
 ADD package.json .
